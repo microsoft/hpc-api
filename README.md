@@ -2,8 +2,6 @@
 
 To use this code sample clone it to your machine and perform the following steps -
 
-Markup:
-
 1.	Navigate to source\C#Sample\SampleAppAsyncAPI
 
 2.	Populate the below values in appsettings.json file
